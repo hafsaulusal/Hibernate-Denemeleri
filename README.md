@@ -127,6 +127,7 @@ public class App
 ******************************************************************************************
 
 Hibernate: insert into Laptop (lName, lId) values (?, ?)
+
 Hibernate: insert into Student (laptop_lId, marks, sName, rolNo) values (?, ?, ?, ?)
 
 
