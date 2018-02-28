@@ -282,3 +282,5 @@ Hibernate: insert into Laptop (lName, student_rolNo, lId) values (?, ?, ?)
 
 Hibernate: insert into Student (marks, sName, rolNo) values (?, ?, ?)
 
+*******************************************************************************************************
+
