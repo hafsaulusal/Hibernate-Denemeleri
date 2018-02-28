@@ -124,8 +124,9 @@ public class App
     </session-factory>
 </hibernate-configuration>
 
+******************************************************************************************
 
-
-
+Hibernate: insert into Laptop (lName, lId) values (?, ?)
+Hibernate: insert into Student (laptop_lId, marks, sName, rolNo) values (?, ?, ?, ?)
 
 
